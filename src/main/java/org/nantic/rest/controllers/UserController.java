@@ -1,7 +1,6 @@
 package org.nantic.rest.controllers;
 
 import org.apache.commons.codec.digest.DigestUtils;
-import org.json.JSONException;
 import org.json.JSONObject;
 import org.nantic.dao.UserRepository;
 import org.nantic.entites.User;

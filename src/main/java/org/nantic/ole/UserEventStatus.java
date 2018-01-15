@@ -1,0 +1,12 @@
+package org.nantic.ole;
+
+public enum UserEventStatus {
+	SUCCEED_ADD,
+	SUCCEED_UPDATE,
+	SUCCEED_REMOVE,
+	SUCCEED_SEND,
+	FAILED_ADD,
+	FAILED_UPDATE,
+	FAILED_REMOVE,
+	FAILED_SEND
+}
